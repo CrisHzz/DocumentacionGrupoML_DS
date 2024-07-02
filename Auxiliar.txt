@@ -1,0 +1,9 @@
+Si deseas activar el entorno virtual para el control de depedencias
+
+.\venv\Scripts\activate
+
+luego
+
+Si vas a instalar las depedencias
+
+pip install -r requeriments.txt
